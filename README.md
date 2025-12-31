@@ -7,7 +7,7 @@ A collection of plugins for [Claude Code](https://claude.ai/claude-code).
 Add this marketplace to Claude Code:
 
 ```bash
-claude plugin marketplace add qazi0/qazi0-claude-plugins
+claude plugin marketplace add qazi0/claude-plugins
 ```
 
 ## Available Plugins
