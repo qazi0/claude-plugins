@@ -1,9 +1,9 @@
 ---
 name: ask
-description: Ask a question about a GitHub repository using DeepWiki AI
+description: 'Ask any question about a repo. Example: "/ask vercel/next.js how does routing work?"'
 arguments:
   - name: repo
-    description: The repository in owner/repo format (e.g., vercel/next.js)
+    description: owner/repo (e.g., vercel/next.js)
     required: true
   - name: question
     description: Your question about the repository

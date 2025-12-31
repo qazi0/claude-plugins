@@ -1,12 +1,12 @@
 ---
 name: quickstart
-description: Get a focused quick start guide to get up and running with a library or framework
+description: 'Get a quick start guide. Example: "/quickstart langchain-ai/langchain"'
 arguments:
   - name: repo
-    description: The repository in owner/repo format (e.g., langchain-ai/langchain)
+    description: owner/repo (e.g., langchain-ai/langchain)
     required: true
   - name: usecase
-    description: Optional specific use case to focus the quickstart on (e.g., "REST API", "CLI tool", "web app")
+    description: Optional use case focus (e.g., "REST API", "CLI tool")
     required: false
 ---
 

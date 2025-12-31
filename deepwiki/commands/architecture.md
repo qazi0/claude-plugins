@@ -1,9 +1,9 @@
 ---
 name: architecture
-description: Get a comprehensive high-level architecture overview of a GitHub repository
+description: 'Get architecture overview of a repo. Example: "/architecture apache/kafka"'
 arguments:
   - name: repo
-    description: The repository in owner/repo format (e.g., kubernetes/kubernetes)
+    description: owner/repo (e.g., kubernetes/kubernetes)
     required: true
 ---
 

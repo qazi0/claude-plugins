@@ -1,9 +1,9 @@
 ---
 name: explore-repo
-description: Explore a GitHub repository's documentation structure and provide an overview
+description: 'Explore a repo and get an overview. Example: "/explore-repo facebook/react"'
 arguments:
   - name: repo
-    description: The repository in owner/repo format (e.g., facebook/react)
+    description: owner/repo (e.g., facebook/react)
     required: true
 ---
 

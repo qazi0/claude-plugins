@@ -1,15 +1,15 @@
 ---
 name: compare
-description: Compare two GitHub repositories side-by-side on architecture, features, and specific aspects
+description: 'Compare two repos side-by-side. Example: "/compare facebook/react vuejs/vue"'
 arguments:
   - name: repo1
-    description: First repository in owner/repo format (e.g., facebook/react)
+    description: First repo (e.g., facebook/react)
     required: true
   - name: repo2
-    description: Second repository in owner/repo format (e.g., vuejs/vue)
+    description: Second repo (e.g., vuejs/vue)
     required: true
   - name: aspect
-    description: Optional specific aspect to focus comparison on (e.g., "state management", "routing", "performance")
+    description: Optional focus aspect (e.g., "state management", "routing")
     required: false
 ---
 

@@ -1,12 +1,12 @@
 ---
 name: troubleshoot
-description: Get help troubleshooting common issues and errors with a library or framework
+description: 'Get help with issues and errors. Example: "/troubleshoot vitejs/vite build errors"'
 arguments:
   - name: repo
-    description: The repository in owner/repo format (e.g., vitejs/vite)
+    description: owner/repo (e.g., vitejs/vite)
     required: true
   - name: issue
-    description: The issue, error message, or problem you're experiencing (e.g., "build errors", "CORS issues", "module not found")
+    description: The issue or error (e.g., "build errors", "CORS issues")
     required: true
 ---
 
