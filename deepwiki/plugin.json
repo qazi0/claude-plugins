@@ -1,0 +1,14 @@
+{
+  "name": "deepwiki",
+  "version": "1.0.0",
+  "description": "Access GitHub repository documentation and AI-powered Q&A via DeepWiki - compare repos, explore architecture, quickstart guides, deep dives, and troubleshooting",
+  "author": {
+    "name": "qazi0"
+  },
+  "repository": "https://github.com/qazi0/claude-plugins",
+  "license": "MIT",
+  "keywords": ["deepwiki", "github", "documentation", "mcp", "compare", "architecture", "troubleshoot"],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "commands": "./commands/"
+}
