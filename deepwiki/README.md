@@ -25,70 +25,70 @@ claude plugin install deepwiki@qazi0-claude-plugins
 
 ## Commands
 
-### `/deepwiki:ask <owner/repo> <question>`
+### `/dw:ask <owner/repo> <question>`
 
 Ask a specific question about a repository.
 
 ```
-/deepwiki:ask anthropics/claude-code "How do hooks work?"
-/deepwiki:ask vercel/next.js "What is the app router?"
+/dw:ask anthropics/claude-code "How do hooks work?"
+/dw:ask vercel/next.js "What is the app router?"
 ```
 
-### `/deepwiki:explore-repo <owner/repo>`
+### `/dw:explore-repo <owner/repo>`
 
 Explore a repository's documentation and get a comprehensive overview.
 
 ```
-/deepwiki:explore-repo facebook/react
-/deepwiki:explore-repo vercel/next.js
+/dw:explore-repo facebook/react
+/dw:explore-repo vercel/next.js
 ```
 
-### `/deepwiki:compare <repo1> <repo2> [aspect]`
+### `/dw:compare <repo1> <repo2> [aspect]`
 
 Compare two repositories side-by-side on architecture, features, and design decisions.
 
 ```
-/deepwiki:compare facebook/react vuejs/vue
-/deepwiki:compare fastapi/fastapi pallets/flask "async support"
-/deepwiki:compare prisma/prisma typeorm/typeorm "migrations"
+/dw:compare facebook/react vuejs/vue
+/dw:compare fastapi/fastapi pallets/flask "async support"
+/dw:compare prisma/prisma typeorm/typeorm "migrations"
 ```
 
-### `/deepwiki:architecture <owner/repo>`
+### `/dw:architecture <owner/repo>`
 
 Get a comprehensive high-level architecture overview of a repository.
 
 ```
-/deepwiki:architecture kubernetes/kubernetes
-/deepwiki:architecture apache/kafka
+/dw:architecture kubernetes/kubernetes
+/dw:architecture apache/kafka
 ```
 
-### `/deepwiki:quickstart <owner/repo> [usecase]`
+### `/dw:quickstart <owner/repo> [usecase]`
 
 Get a focused quick start guide to get up and running fast.
 
 ```
-/deepwiki:quickstart langchain-ai/langchain
-/deepwiki:quickstart fastapi/fastapi "REST API"
+/dw:quickstart langchain-ai/langchain
+/dw:quickstart fastapi/fastapi "REST API"
 ```
 
-### `/deepwiki:deep-dive <owner/repo> <topic>`
+### `/dw:deep-dive <owner/repo> <topic>`
 
 Do a comprehensive deep dive on a specific topic within a repository.
 
 ```
-/deepwiki:deep-dive vercel/next.js "authentication"
-/deepwiki:deep-dive pytorch/pytorch "distributed training"
-/deepwiki:deep-dive docker/compose "networking"
+/dw:deep-dive vercel/next.js "authentication"
+/dw:deep-dive pytorch/pytorch "distributed training"
+/dw:deep-dive docker/compose "networking"
 ```
 
-### `/deepwiki:troubleshoot <owner/repo> <issue>`
+### `/dw:troubleshoot <owner/repo> <issue>`
 
 Get help troubleshooting common issues and errors.
 
 ```
-/deepwiki:troubleshoot vitejs/vite "build errors"
-/deepwiki:troubleshoot prisma/prisma "connection timeout"
-/deepwiki:troubleshoot docker/docker "permission denied"
+/dw:troubleshoot vitejs/vite "build errors"
+/dw:troubleshoot prisma/prisma "connection timeout"
+/dw:troubleshoot docker/docker "permission denied"
 ```
 
 ## MCP Tools
