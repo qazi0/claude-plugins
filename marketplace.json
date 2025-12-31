@@ -1,0 +1,15 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "qazi0"
+  },
+  "plugins": [
+    {
+      "name": "deepwiki",
+      "source": "./deepwiki",
+      "description": "Access GitHub repository documentation and AI-powered Q&A via DeepWiki - compare repos, explore architecture, quickstart guides, deep dives, and troubleshooting",
+      "version": "1.0.0",
+      "keywords": ["deepwiki", "github", "documentation", "mcp", "compare", "architecture", "troubleshoot"]
+    }
+  ]
+}
