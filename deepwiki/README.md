@@ -19,8 +19,8 @@ Access GitHub repository documentation and AI-powered Q&A via [DeepWiki](https:/
 ### From Marketplace
 
 ```bash
-claude plugin marketplace add qazi0/claude-plugins
-claude plugin install deepwiki@claude-plugins
+claude plugin marketplace add qazi0/qazi0-claude-plugins
+claude plugin install deepwiki@qazi0-claude-plugins
 ```
 
 ## Commands
