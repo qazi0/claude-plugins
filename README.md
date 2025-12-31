@@ -21,13 +21,13 @@ claude plugin install deepwiki@qazi0-claude-plugins
 ```
 
 **Commands:**
-- `/dw:ask` - Ask questions about any GitHub repository
-- `/dw:explore-repo` - Explore repository documentation structure
-- `/dw:compare` - Compare two repositories side-by-side
-- `/dw:architecture` - Get architecture overviews
-- `/dw:quickstart` - Get quick start guides
-- `/dw:deep-dive` - Deep dive into specific topics
-- `/dw:troubleshoot` - Get help with common issues
+- `/deepwiki:ask` - Ask questions about any GitHub repository
+- `/deepwiki:explore-repo` - Explore repository documentation structure
+- `/deepwiki:compare` - Compare two repositories side-by-side
+- `/deepwiki:architecture` - Get architecture overviews
+- `/deepwiki:quickstart` - Get quick start guides
+- `/deepwiki:deep-dive` - Deep dive into specific topics
+- `/deepwiki:troubleshoot` - Get help with common issues
 
 [View full documentation](./deepwiki/README.md)
 
