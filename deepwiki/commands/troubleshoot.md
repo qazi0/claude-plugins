@@ -3,10 +3,10 @@ name: troubleshoot
 description: 'Get help with issues and errors. e.g. "/troubleshoot vitejs/vite build errors"'
 arguments:
   - name: repo
-    description: owner/repo (e.g., vitejs/vite)
+    description: e.g. "vitejs/vite" or "prisma/prisma"
     required: true
   - name: issue
-    description: The issue or error (e.g., "build errors", "CORS issues")
+    description: e.g. "build errors" or "connection timeout"
     required: true
 ---
 

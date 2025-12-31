@@ -3,10 +3,10 @@ name: ask
 description: 'Ask any question about a repo. e.g. "/ask vercel/next.js how does routing work?"'
 arguments:
   - name: repo
-    description: owner/repo (e.g., vercel/next.js)
+    description: e.g. "vercel/next.js" or "facebook/react"
     required: true
   - name: question
-    description: Your question about the repository
+    description: e.g. "how does routing work?" or "what is the architecture?"
     required: true
 ---
 

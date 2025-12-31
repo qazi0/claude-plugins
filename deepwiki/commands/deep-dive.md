@@ -3,10 +3,10 @@ name: deep-dive
 description: 'Deep dive into a specific topic. e.g. "/deep-dive vercel/next.js authentication"'
 arguments:
   - name: repo
-    description: owner/repo (e.g., vercel/next.js)
+    description: e.g. "vercel/next.js" or "pytorch/pytorch"
     required: true
   - name: topic
-    description: Topic to explore (e.g., "authentication", "caching")
+    description: e.g. "authentication" or "distributed training"
     required: true
 ---
 

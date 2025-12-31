@@ -8,7 +8,7 @@
       "name": "deepwiki",
       "source": "./deepwiki",
       "description": "Access GitHub repository documentation and AI-powered Q&A via DeepWiki - compare repos, explore architecture, quickstart guides, deep dives, and troubleshooting",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "keywords": ["deepwiki", "github", "documentation", "mcp", "compare", "architecture", "troubleshoot"]
     }
   ]
