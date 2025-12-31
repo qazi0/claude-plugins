@@ -3,13 +3,13 @@ name: compare
 description: 'Compare two repos side-by-side. e.g. "/compare facebook/react vuejs/vue"'
 arguments:
   - name: repo1
-    description: e.g. "facebook/react" or "fastapi/fastapi"
+    description: Compare two repos side-by-side. e.g. "/compare facebook/react vuejs/vue"
     required: true
   - name: repo2
-    description: e.g. "vuejs/vue" or "pallets/flask"
+    description: Second repo to compare (e.g. vuejs/vue)
     required: true
   - name: aspect
-    description: e.g. "state management" or "async support" (optional)
+    description: Optional focus like "state management" or "routing"
     required: false
 ---
 

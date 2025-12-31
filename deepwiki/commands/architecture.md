@@ -3,7 +3,7 @@ name: architecture
 description: 'Get architecture overview of a repo. e.g. "/architecture apache/kafka"'
 arguments:
   - name: repo
-    description: e.g. "kubernetes/kubernetes" or "apache/kafka"
+    description: Get architecture overview. e.g. "/architecture apache/kafka"
     required: true
 ---
 

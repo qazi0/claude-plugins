@@ -3,10 +3,10 @@ name: quickstart
 description: 'Get a quick start guide. e.g. "/quickstart langchain-ai/langchain"'
 arguments:
   - name: repo
-    description: e.g. "langchain-ai/langchain" or "fastapi/fastapi"
+    description: Get a quick start guide. e.g. "/quickstart langchain-ai/langchain"
     required: true
   - name: usecase
-    description: e.g. "REST API" or "CLI tool" (optional)
+    description: Optional focus like "REST API" or "CLI tool"
     required: false
 ---
 

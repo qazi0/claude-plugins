@@ -3,7 +3,7 @@ name: explore-repo
 description: 'Explore a repo and get an overview. e.g. "/explore-repo facebook/react"'
 arguments:
   - name: repo
-    description: e.g. "facebook/react" or "vercel/next.js"
+    description: Explore repo docs and get overview. e.g. "/explore-repo facebook/react"
     required: true
 ---
 
