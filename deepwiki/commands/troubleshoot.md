@@ -6,7 +6,7 @@ arguments:
     description: Get help with issues. e.g. "/troubleshoot vitejs/vite build errors"
     required: true
   - name: issue
-    description: The issue like "build errors" or "CORS issues"
+    description: Get help with issues. e.g. "/troubleshoot vitejs/vite build errors"
     required: true
 ---
 

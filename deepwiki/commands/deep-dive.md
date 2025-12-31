@@ -6,7 +6,7 @@ arguments:
     description: Deep dive into a topic. e.g. "/deep-dive vercel/next.js authentication"
     required: true
   - name: topic
-    description: Topic like "authentication", "caching", "middleware"
+    description: Deep dive into a topic. e.g. "/deep-dive vercel/next.js authentication"
     required: true
 ---
 

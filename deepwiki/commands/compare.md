@@ -6,10 +6,10 @@ arguments:
     description: Compare two repos side-by-side. e.g. "/compare facebook/react vuejs/vue"
     required: true
   - name: repo2
-    description: Second repo to compare (e.g. vuejs/vue)
+    description: Compare two repos side-by-side. e.g. "/compare facebook/react vuejs/vue"
     required: true
   - name: aspect
-    description: Optional focus like "state management" or "routing"
+    description: Compare two repos side-by-side. e.g. "/compare facebook/react vuejs/vue"
     required: false
 ---
 

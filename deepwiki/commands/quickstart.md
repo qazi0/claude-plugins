@@ -6,7 +6,7 @@ arguments:
     description: Get a quick start guide. e.g. "/quickstart langchain-ai/langchain"
     required: true
   - name: usecase
-    description: Optional focus like "REST API" or "CLI tool"
+    description: Get a quick start guide. e.g. "/quickstart langchain-ai/langchain"
     required: false
 ---
 

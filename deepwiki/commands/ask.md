@@ -6,7 +6,7 @@ arguments:
     description: Ask any question about a repo. e.g. "/ask vercel/next.js how does routing work?"
     required: true
   - name: question
-    description: Your question about the repository
+    description: Ask any question about a repo. e.g. "/ask vercel/next.js how does routing work?"
     required: true
 ---
 
