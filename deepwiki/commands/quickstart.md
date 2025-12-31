@@ -1,6 +1,6 @@
 ---
 name: quickstart
-description: 'Get a quick start guide. Example: "/quickstart langchain-ai/langchain"'
+description: 'Get a quick start guide. e.g. "/quickstart langchain-ai/langchain"'
 arguments:
   - name: repo
     description: owner/repo (e.g., langchain-ai/langchain)

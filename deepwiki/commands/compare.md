@@ -1,6 +1,6 @@
 ---
 name: compare
-description: 'Compare two repos side-by-side. Example: "/compare facebook/react vuejs/vue"'
+description: 'Compare two repos side-by-side. e.g. "/compare facebook/react vuejs/vue"'
 arguments:
   - name: repo1
     description: First repo (e.g., facebook/react)

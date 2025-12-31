@@ -1,6 +1,6 @@
 ---
 name: deep-dive
-description: 'Deep dive into a specific topic. Example: "/deep-dive vercel/next.js authentication"'
+description: 'Deep dive into a specific topic. e.g. "/deep-dive vercel/next.js authentication"'
 arguments:
   - name: repo
     description: owner/repo (e.g., vercel/next.js)

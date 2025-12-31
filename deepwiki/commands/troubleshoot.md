@@ -1,6 +1,6 @@
 ---
 name: troubleshoot
-description: 'Get help with issues and errors. Example: "/troubleshoot vitejs/vite build errors"'
+description: 'Get help with issues and errors. e.g. "/troubleshoot vitejs/vite build errors"'
 arguments:
   - name: repo
     description: owner/repo (e.g., vitejs/vite)

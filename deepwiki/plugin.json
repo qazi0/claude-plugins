@@ -1,6 +1,6 @@
 {
   "name": "deepwiki",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Access GitHub repository documentation and AI-powered Q&A via DeepWiki - compare repos, explore architecture, quickstart guides, deep dives, and troubleshooting",
   "author": {
     "name": "qazi0"

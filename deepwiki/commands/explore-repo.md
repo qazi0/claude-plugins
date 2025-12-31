@@ -1,6 +1,6 @@
 ---
 name: explore-repo
-description: 'Explore a repo and get an overview. Example: "/explore-repo facebook/react"'
+description: 'Explore a repo and get an overview. e.g. "/explore-repo facebook/react"'
 arguments:
   - name: repo
     description: owner/repo (e.g., facebook/react)
