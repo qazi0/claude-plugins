@@ -10,6 +10,13 @@
       "description": "Access GitHub repository documentation and AI-powered Q&A via DeepWiki - compare repos, explore architecture, quickstart guides, deep dives, and troubleshooting",
       "version": "2.3.1",
       "keywords": ["deepwiki", "github", "documentation", "mcp", "compare", "architecture", "troubleshoot"]
+    },
+    {
+      "name": "calculator",
+      "source": "./calculator",
+      "description": "Exact mathematical calculations, unit conversions, and statistics via a local MCP server powered by mathjs",
+      "version": "1.0.0",
+      "keywords": ["calculator", "math", "convert", "units", "statistics", "mcp"]
     }
   ]
 }

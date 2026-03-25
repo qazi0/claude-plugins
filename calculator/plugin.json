@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Exact mathematical calculations, unit conversions, and statistics via a local MCP server powered by mathjs",
+  "author": {
+    "name": "qazi0"
+  },
+  "repository": "https://github.com/qazi0/claude-plugins",
+  "license": "MIT",
+  "keywords": ["calculator", "math", "convert", "units", "statistics", "mcp"],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "commands": "./commands/"
+}
