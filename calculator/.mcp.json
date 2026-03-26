@@ -3,7 +3,7 @@
     "calculator": {
       "type": "stdio",
       "command": "node",
-      "args": ["./calculator-server.mjs"]
+      "args": ["${CLAUDE_PLUGIN_ROOT}/calculator-server.mjs"]
     }
   }
 }

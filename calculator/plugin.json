@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Exact mathematical calculations, unit conversions, and statistics via a local MCP server powered by mathjs",
   "author": {
     "name": "qazi0"
