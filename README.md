@@ -31,6 +31,25 @@ claude plugin install deepwiki@qazi0-claude-plugins
 
 [View full documentation](./deepwiki/README.md)
 
+### Calculator
+
+Exact mathematical calculations, unit conversions, and descriptive statistics — powered by [mathjs](https://mathjs.org/).
+
+```bash
+claude plugin install calculator@qazi0-claude-plugins
+```
+
+**Commands:**
+- `/calculator:calc` - Evaluate any math expression (arithmetic, trig, logarithms, factorials, matrices, etc.)
+- `/calculator:convert` - Convert between units (length, mass, temperature, data, etc.)
+
+**MCP Tools:**
+- `calculate` - Evaluate expressions with exact precision
+- `convert` - Unit conversions
+- `statistics` - Descriptive stats (mean, median, std dev, variance, range)
+
+[View full documentation](./calculator/README.md)
+
 ## License
 
 MIT
