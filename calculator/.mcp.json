@@ -3,7 +3,7 @@
     "calculator": {
       "type": "stdio",
       "command": "node",
-      "args": ["./server/index.js"]
+      "args": ["./calculator-server.mjs"]
     }
   }
 }
