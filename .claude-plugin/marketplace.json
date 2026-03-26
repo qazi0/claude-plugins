@@ -15,7 +15,7 @@
       "name": "calculator",
       "source": "./calculator",
       "description": "Exact mathematical calculations, unit conversions, and statistics via a local MCP server powered by mathjs",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "keywords": ["calculator", "math", "convert", "units", "statistics", "mcp"]
     }
   ]

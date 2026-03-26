@@ -1,10 +1,6 @@
 ---
 name: calc
 description: 'Evaluate a math expression. e.g. "/calc sqrt(144) + 2^10"'
-arguments:
-  - name: expression
-    description: 'The math expression to evaluate. e.g. "sqrt(144) + 2^10", "sin(pi/4)", "12!"'
-    required: true
 ---
 
 # Calculate
