@@ -9,12 +9,12 @@ arguments:
 
 # Calculate
 
-Evaluate the mathematical expression: **$ARGUMENTS.expression**
+Evaluate the mathematical expression: **$ARGUMENTS**
 
 ## Instructions
 
 1. Use the `calculate` tool with:
-   - `expression: "$ARGUMENTS.expression"`
+   - `expression: "$ARGUMENTS"`
 
 2. Present the result clearly
 
